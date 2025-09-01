@@ -1,0 +1,113 @@
+PS C:\Users\eduka\Desktop\Inatel\P10\C216\C216-L1> & C:/Users/eduka/AppData/Local/Programs/Python/Python312/python.exe c:/Users/eduka/Desktop/Inatel/P10/C216/C216-L1/aula2.py
+Terminal de Alunos
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair 
+
+Escolha uma opção: 1
+Digite o nome do aluno: Eduardo
+Digite o email do aluno: eduardo@gamil.com
+Digite o curso do aluno (Favor utilizar apenas a sigla do curso, ex: GEC, GES, etc): GES
+Aluno Eduardo adicionado com sucesso! Matrícula: 1
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair 
+
+Escolha uma opção: 1
+Digite o nome do aluno: Maria
+Digite o email do aluno: maria@gmail.com
+Digite o curso do aluno (Favor utilizar apenas a sigla do curso, ex: GEC, GES, etc): GEC
+Aluno Maria adicionado com sucesso! Matrícula: 1
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 1
+Digite o nome do aluno: Joao 
+Digite o email do aluno: joao@gmail.com
+Digite o curso do aluno (Favor utilizar apenas a sigla do curso, ex: GEC, GES, etc): GEC
+Aluno Joao adicionado com sucesso! Matrícula: 2
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 3
+
+Lista de Alunos:
+Nome: Eduardo, Email: eduardo@gamil.com, Curso: GES, Matrícula: 1
+Nome: Maria, Email: maria@gmail.com, Curso: GEC, Matrícula: 1
+Nome: Joao, Email: joao@gmail.com, Curso: GEC, Matrícula: 2
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 2
+Digite o nome do aluno a ser atualizado: joao
+Aluno joao não encontrado.
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 2
+Digite o nome do aluno a ser atualizado: Joao
+Digite o novo email: joao@gmail.com
+Digite o novo curso: GEB
+Aluno Joao atualizado com sucesso! Matrícula: 1
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 4
+Digite o nome do aluno a ser removido: Maria
+Aluno Maria removido com sucesso!
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 3
+
+Lista de Alunos:
+Nome: Eduardo, Email: eduardo@gamil.com, Curso: GES, Matrícula: 1
+Nome: Joao, Email: joao@gmail.com, Curso: GEB, Matrícula: 1
+
+Menu:
+1. Adicionar Aluno
+2. Atualizar info de Aluno
+3. Listar Alunos
+4. Remover Aluno
+5. Sair
+
+Escolha uma opção: 5
+Saindo do terminal de alunos.
